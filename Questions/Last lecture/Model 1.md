@@ -126,5 +126,4 @@ d) It is optional for all software projects.
 
 ## Answer Key
 
-1) b | 2) b | 3) b | 4) c | 5) b | 6) b | 7) b | 8) c | 9) b | 10) c  
-11) c | 12) b | 13) b | 14) b | 15) b | 16) c | 17) a | 18) b | 19) a | 20) b
+1) b | 2) b | 3) b | 4) c | 5) b | 6) b | 7) b | 8) c | 9) b | 10) c  11) c | 12) b | 13) b | 14) b | 15) b | 16) c | 17) a | 18) b | 19) a | 20) b
